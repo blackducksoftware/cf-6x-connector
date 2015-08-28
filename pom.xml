@@ -202,15 +202,11 @@
 	</build>
 
 	<repositories>
+
 		<repository>
-			<id>bintray-bds-tools</id>
-			<name>BDS Bintray for Common Framework</name>
-			<url>http://dl.bintray.com/bds/cf</url>
-		</repository>
-		<repository>
-			<id>bintray-bds-sdk</id>
-			<name>BDS Bintray for SDK</name>
-			<url>http://dl.bintray.com/bds/sdk</url>
+			<id>jcenter</id>
+			<name>JCenter</name>
+			<url>http://jcenter.bintray.com</url>
 		</repository>
 	</repositories>
 
