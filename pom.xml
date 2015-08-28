@@ -5,9 +5,8 @@
 	<artifactId>cf-6x-connector</artifactId>
 	<version>1.0.8</version>
 
-
 	<name>CommonFramework 6.x Connector</name>
-	<url>https://confluence.blackducksoftware.com/display/SE/Connectors</url>
+	<url>https://github.com/blackducksoftware/cf-6x-connector/wiki</url>
 
 	<description>
 		A connector for the 6.X SDK to be used in conjunction with the Common Framework
