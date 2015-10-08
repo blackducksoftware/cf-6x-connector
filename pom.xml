@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.blackducksoftware.tools</groupId>
 	<artifactId>cf-6x-connector</artifactId>
-	<version>1.0.9-SNAPSHOT</version>
+	<version>1.0.9</version>
 
 	<name>CommonFramework 6.x Connector</name>
 	<url>https://github.com/blackducksoftware/cf-6x-connector/wiki</url>
@@ -34,7 +34,7 @@
 		<codecenter.sdk.version>6.6.0</codecenter.sdk.version>
 		<codecenter.sdk.version>6.6.0</codecenter.sdk.version>
 		<!-- Common Framework Version -->
-		<common.framework.version>1.5.1-SNAPSHOT</common.framework.version>
+		<common.framework.version>1.5.1</common.framework.version>
 	</properties>
 
 
